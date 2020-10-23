@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.884,=D:\Lidashi\dephixeproject\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.195,=D:\Lidashi\dephixeproject\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.559,=D:\Lidashi\dephixeproject\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.910,D:\Lidashi\dephixeproject\Project1.dproj=D:\Lidashi\dephixeproject\桌面事件提醒器\WorkRecord.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.504,D:\Lidashi\dephixeproject\桌面事件提醒器\Unit1.pas=D:\Lidashi\dephixeproject\桌面事件提醒器\Global.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.214,=D:\Lidashi\dephixeproject\桌面事件提醒器\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.714,=D:\Lidashi\dephixeproject\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.457,=D:\Lidashi\dephixeproject\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.390,=D:\Lidashi\dephixeproject\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.148,D:\Lidashi\dephixeproject\Unit1.dfm=D:\Lidashi\dephixeproject\桌面事件提醒器\DeskEvent.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.998,=D:\Lidashi\dephixeproject\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.148,D:\Lidashi\dephixeproject\Unit1.pas=D:\Lidashi\dephixeproject\桌面事件提醒器\DeskEvent.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.525,=D:\Lidashi\dephixeproject\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
